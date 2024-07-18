@@ -1,6 +1,6 @@
 baseURL = 'https://daily-blog-inky.vercel.app'
 languageCode = 'en-us'
-title = 'Lama dev blog'
+title = 'Amodh'
 
 paginate = 4
 
